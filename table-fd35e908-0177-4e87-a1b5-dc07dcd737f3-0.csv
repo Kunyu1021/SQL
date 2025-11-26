@@ -1,0 +1,9 @@
+﻿类型,存储内容,示例
+INTEGER / BOOLEAN,整数、真假值,42", "1 (true)
+FLOAT / DOUBLE,小数、精确数值,3.14", "99.99
+CHAR(n),固定长度文本,'M'", "'US'
+VARCHAR(n),可变长度文本,'Alice'", "'New York'
+TEXT,长文本,文章、描述
+DATE,日期,'2025-04-05'
+DATETIME,日期+时间,'2025-04-05 10:30:00'
+BLOB,二进制文件,图片、PDF

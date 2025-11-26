@@ -1,0 +1,7 @@
+﻿约束,作用,何时使用
+PRIMARY KEY,唯一标识一行,几乎所有表的 ID 列
+AUTOINCREMENT,自动分配主键 ID,希望 ID 自增时
+UNIQUE,确保列值不重复,邮箱、用户名等
+NOT NULL,确保列不为空,必填字段
+CHECK,自定义验证规则,年龄、价格等范围
+FOREIGN KEY,关联其他表,表之间有关系时
